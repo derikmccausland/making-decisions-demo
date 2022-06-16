@@ -32,6 +32,6 @@ for (let i = 0; i < 3; i++) {
     console.log(backpack[i])
 }
 
-
+No it isn't
 
 
